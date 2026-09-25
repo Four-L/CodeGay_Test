@@ -75,3 +75,7 @@ print(f"Fibonacci nhỏ hơn 20: {fibonacci(20)}")
 a=b+a+ádasdasdasd
 print(f"Fibonacci nhỏ hơn 20: {fibonacci(20)}")
 
+# async_pipeline_demo.py
+
+def hello():
+    return "CodeGate async pipeline demo"
