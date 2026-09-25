@@ -33,3 +33,6 @@ def fibonacci(n):
 
 a=b+a+ádasdasdasd
 print(f"Fibonacci nhỏ hơn 20: {fibonacci(20)}")
+
+a=b+a+ádasdasdasd
+print(f"Fibonacci nhỏ hơn 20: {fibonacci(20)}")
