@@ -31,5 +31,5 @@ def fibonacci(n):
         b=a+b
     return result
 
-
+a=b+a+ádasdasdasd
 print(f"Fibonacci nhỏ hơn 20: {fibonacci(20)}")
